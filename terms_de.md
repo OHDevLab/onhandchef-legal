@@ -1,7 +1,7 @@
 Nutzungsbedingungen
-Letzte Aktualisierung: 30. Juni 2025
+Letzte Aktualisierung: 13. November 2025
 
-Diese Nutzungsbedingungen („Bedingungen“) regeln die Nutzung der App „Kitchen – Mit dem, was du hast“ (nachfolgend „die App“) durch den Benutzer (nachfolgend „Sie“). Mit der Installation und Nutzung der App erklären Sie sich mit diesen Bedingungen einverstanden.
+Diese Nutzungsbedingungen („Bedingungen") regeln die Nutzung der App „CulinAvI" (nachfolgend „die App") durch den Benutzer (nachfolgend „Sie"). Mit der Installation und Nutzung der App erklären Sie sich mit diesen Bedingungen einverstanden.
 
 Artikel 1 (Leistungsbeschreibung)
 Diese App ist eine Kochhilfe-App, die Zutaten aus Kassenbons extrahiert und mithilfe von KI Rezeptvorschläge erstellt. Für die Nutzung ist eine Internetverbindung erforderlich.

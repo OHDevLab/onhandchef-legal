@@ -1,7 +1,7 @@
 Termini di utilizzo
-Ultimo aggiornamento: 30 giugno 2025
+Ultimo aggiornamento: 13 novembre 2025
 
-I presenti Termini di utilizzo (di seguito, "Termini") stabiliscono le condizioni per l’utilizzo dell'app "Kitchen – Con quello che hai" (di seguito, "l'App") da parte dell'utente (di seguito, "l'Utente"). Installando e iniziando a utilizzare l'App, l'Utente accetta i presenti Termini.
+I presenti Termini di utilizzo (di seguito, "Termini") stabiliscono le condizioni per l'utilizzo dell'app "CulinAvI" (di seguito, "l'App") da parte dell'utente (di seguito, "l'Utente"). Installando e iniziando a utilizzare l'App, l'Utente accetta i presenti Termini.
 
 Articolo 1 (Servizi offerti)
 L'App è un assistente culinario che estrae ingredienti da immagini di scontrini e propone ricette utilizzando l'intelligenza artificiale. È necessaria una connessione a Internet per utilizzare l'App.

@@ -1,7 +1,7 @@
 Conditions d’utilisation
-Dernière mise à jour : 30 juin 2025
+Dernière mise à jour : 13 novembre 2025
 
-Les présentes conditions d’utilisation (ci-après, les « Conditions ») définissent les modalités d’utilisation de l’application « Kitchen – Avec ce qu’on a » (ci-après, l’« Application ») par l’utilisateur (ci-après, « vous »). En installant et en utilisant l’Application, vous êtes réputé avoir accepté les présentes Conditions.
+Les présentes conditions d'utilisation (ci-après, les « Conditions ») définissent les modalités d'utilisation de l'application « CulinAvI » (ci-après, l'« Application ») par l'utilisateur (ci-après, « vous »). En installant et en utilisant l'Application, vous êtes réputé avoir accepté les présentes Conditions.
 
 Article 1 (Description du service)
 Cette Application est une aide culinaire qui extrait des ingrédients à partir d’images de reçus et propose des menus à l’aide de l’IA. Une connexion Internet est nécessaire pour son utilisation.

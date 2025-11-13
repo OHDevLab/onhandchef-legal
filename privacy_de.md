@@ -1,7 +1,7 @@
 Datenschutzerklärung
-Zuletzt aktualisiert: 10. Juli 2025
+Zuletzt aktualisiert: 13. November 2025
 
-Diese Datenschutzerklärung (im Folgenden als "diese Richtlinie" bezeichnet) regelt den Umgang mit personenbezogenen Daten und gleichwertigen Informationen der Nutzer in der App "Kitchen - With What You Have" (im Folgenden als "diese App" bezeichnet).
+Diese Datenschutzerklärung (im Folgenden als "diese Richtlinie" bezeichnet) regelt den Umgang mit personenbezogenen Daten und gleichwertigen Informationen der Nutzer in der App "CulinAvI" (im Folgenden als "diese App" bezeichnet).
 
 Artikel 1 (Gesammelte Informationen)
 Diese App kann die folgenden Informationen sammeln und verwenden, um Nutzern komfortable Dienste zu bieten:

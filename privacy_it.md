@@ -1,7 +1,7 @@
 Informativa sulla Privacy
-Ultimo aggiornamento: 10 luglio 2025
+Ultimo aggiornamento: 13 novembre 2025
 
-Questa Informativa sulla Privacy (di seguito denominata "questa Politica") stabilisce il trattamento delle informazioni personali e delle informazioni equivalenti degli utenti nell'app "Kitchen - With What You Have" (di seguito denominata "questa App").
+Questa Informativa sulla Privacy (di seguito denominata "questa Politica") stabilisce il trattamento delle informazioni personali e delle informazioni equivalenti degli utenti nell'app "CulinAvI" (di seguito denominata "questa App").
 
 Articolo 1 (Informazioni Raccolte)
 Questa App può raccogliere e utilizzare le seguenti informazioni per fornire agli utenti servizi confortevoli:

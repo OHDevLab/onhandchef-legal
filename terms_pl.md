@@ -1,7 +1,7 @@
 Regulamin korzystania
-Ostatnia aktualizacja: 30 czerwca 2025 r.
+Ostatnia aktualizacja: 13 listopada 2025 r.
 
-Niniejszy regulamin („Regulamin”) określa zasady korzystania z aplikacji „Kitchen – Z tego, co masz” („Aplikacja”) przez użytkownika („Użytkownik”). Instalując i rozpoczynając korzystanie z Aplikacji, Użytkownik akceptuje niniejszy Regulamin.
+Niniejszy regulamin („Regulamin") określa zasady korzystania z aplikacji „CulinAvI" („Aplikacja") przez użytkownika („Użytkownik"). Instalując i rozpoczynając korzystanie z Aplikacji, Użytkownik akceptuje niniejszy Regulamin.
 
 Artykuł 1 (Zakres usług)
 Aplikacja to asystent kulinarny, który rozpoznaje składniki z obrazów paragonów i proponuje przepisy na podstawie sztucznej inteligencji. Do korzystania z Aplikacji wymagane jest połączenie z Internetem.

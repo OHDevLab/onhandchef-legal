@@ -1,7 +1,7 @@
 Privacy Policy
-Last Updated: July 10, 2025
+Last Updated: November 13, 2025
 
-This Privacy Policy (hereinafter referred to as "this Policy") establishes the handling of personal information and equivalent information of users in the app "Kitchen - With What You Have" (hereinafter referred to as "this App").
+This Privacy Policy (hereinafter referred to as "this Policy") establishes the handling of personal information and equivalent information of users in the app "CulinAvI" (hereinafter referred to as "this App").
 
 Article 1 (Information Collected)
 This App may collect and use the following information to provide users with comfortable services:

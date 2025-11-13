@@ -1,7 +1,7 @@
 Politique de Confidentialité
-Dernière mise à jour : 10 juillet 2025
+Dernière mise à jour : 13 novembre 2025
 
-Cette Politique de Confidentialité (ci-après dénommée "cette Politique") établit le traitement des informations personnelles et des informations équivalentes des utilisateurs dans l'application "Kitchen - With What You Have" (ci-après dénommée "cette App").
+Cette Politique de Confidentialité (ci-après dénommée "cette Politique") établit le traitement des informations personnelles et des informations équivalentes des utilisateurs dans l'application "CulinAvI" (ci-après dénommée "cette App").
 
 Article 1 (Informations Collectées)
 Cette App peut collecter et utiliser les informations suivantes pour fournir aux utilisateurs des services confortables :

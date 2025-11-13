@@ -1,7 +1,7 @@
 Terms of Use
-Last updated: June 30, 2025
+Last updated: November 13, 2025
 
-These Terms of Use (“Terms”) set forth the conditions for the use of the app “Kitchen – With What You Have” (hereinafter “the App”) by users (hereinafter “you”). By installing and starting to use the App, you are deemed to have agreed to these Terms.
+These Terms of Use ("Terms") set forth the conditions for the use of the app "CulinAvI" (hereinafter "the App") by users (hereinafter "you"). By installing and starting to use the App, you are deemed to have agreed to these Terms.
 
 Article 1 (Service Description)
 This App is a cooking support app that extracts ingredients from receipt images and uses AI to propose meal ideas. An internet connection is required to use the App.
